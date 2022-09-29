@@ -17,7 +17,7 @@ Este repocitorio tiene documentado la leccion 2 del curso de Unity **Junior Prog
 
 
 ### Video Demostrativo
-- [Challenge 2 - Play Fetch]()
+- [Challenge 2 - Play Fetch](https://drive.google.com/file/d/1BkZQpGCWyH1L0HM8wkKRgplz04OJhoEt/view?usp=sharing)
 
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
