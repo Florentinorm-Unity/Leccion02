@@ -13,7 +13,7 @@ I. Introducción al desarrollo de aplicaciones de videojuegos
 Este repocitorio tiene documentado la leccion 2 del curso de Unity **Junior Programmer: Create with Code 1** con los siguientes temas:
 - [Unit 2 - Basic Gameplay](https://github.com/Florentinorm-Unity/Leccion02/tree/master/Unit%202%20-%20Basic%20Gameplay/)
 - [Challenge 2 - Play Fetch](https://github.com/Florentinorm-Unity/Leccion02/tree/master/Challenge%202%20-%20Play%20Fetch/)
-- [Lab 2 - New Project with Primitives]()
+- [Lab 2 - New Project with Primitives](https://github.com/Florentinorm-Unity/Leccion02/tree/master/Lab%202%20-%20New%20Project%20with%20Primitives/)
 
 
 ### Video Demostrativo
