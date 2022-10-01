@@ -14,6 +14,8 @@ Este repocitorio tiene documentado la leccion 2 del curso de Unity **Junior Prog
 - [Unit 2 - Basic Gameplay](https://github.com/Florentinorm-Unity/Leccion02/tree/master/Unit%202%20-%20Basic%20Gameplay/)
 - [Challenge 2 - Play Fetch](https://github.com/Florentinorm-Unity/Leccion02/tree/master/Challenge%202%20-%20Play%20Fetch/)
 - [Lab 2 - New Project with Primitives](https://github.com/Florentinorm-Unity/Leccion02/tree/master/Lab%202%20-%20New%20Project%20with%20Primitives/)
+- [Quiz 2](https://drive.google.com/file/d/1HhHS3PuzoINou2tMrzFwTbcq5OjDzv40/view?usp=sharing)
+
 
 
 ### Video Demostrativo
